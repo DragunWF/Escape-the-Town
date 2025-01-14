@@ -1,0 +1,148 @@
+DO NOT MANUALY EDIT THIS FILE
+1
+21
+0
+mapbank\escape the town.fpm
+skybank\cloudy\cloudy.x
+skybank\cloudy\cloudy_b.dds
+skybank\cloudy\cloudy_d.dds
+skybank\cloudy\cloudy_f.dds
+skybank\cloudy\cloudy_l.dds
+skybank\cloudy\cloudy_r.dds
+skybank\cloudy\cloudy_u.dds
+skybank\cloudy\skyspec.txt
+skybank\night\back.dds
+skybank\night\down.dds
+skybank\night\front.dds
+skybank\night\left.dds
+skybank\night\night.x
+skybank\night\right.dds
+skybank\night\skyspec.txt
+skybank\night\up.dds
+terrainbank\lush\default_d.dds
+terrainbank\lush\default_n.dds
+terrainbank\lush\mossy_d.dds
+terrainbank\lush\mossy_n.dds
+terrainbank\lush\path_d.dds
+terrainbank\lush\path_n.dds
+terrainbank\lush\rocky_d.dds
+terrainbank\lush\rocky_n.dds
+terrainbank\lush\sedimentary_d.dds
+terrainbank\lush\sedimentary_n.dds
+terrainbank\lush\superpalette.ter
+terrainbank\lush\texture_d.dds
+terrainbank\lush\texture_n.dds
+vegbank\lushy\grass.dds
+vegbank\lushy\veg.x
+entitybank\_markers\player start.fpe
+entitybank\_markers\arrow.dbo
+entitybank\_markers\player start.dds
+gamecore\guns\medieval\sword\crosshair.dds
+gamecore\guns\medieval\sword\fire.wav
+gamecore\guns\medieval\sword\gunspec.txt
+gamecore\guns\medieval\sword\gun_d.dds
+gamecore\guns\medieval\sword\gun_d2.dds
+gamecore\guns\medieval\sword\hand_d.jpg
+gamecore\guns\medieval\sword\hud.x
+gamecore\guns\medieval\sword\hud_icon.dds
+gamecore\guns\medieval\sword\idle.wav
+gamecore\guns\medieval\sword\putaway.wav
+gamecore\guns\medieval\sword\retrieve.wav
+entitybank\classics\medieval\medieval building 14.fpe
+entitybank\classics\medieval\medhouse14.dbo
+entitybank\classics\medieval\medtexk.dds
+entitybank\classics\medieval\city_wall.fpe
+entitybank\classics\medieval\city_wall.dbo
+entitybank\classics\medieval\city_wall.dds
+entitybank\classics\medieval\medieval building 12.fpe
+entitybank\classics\medieval\medhouse12.dbo
+entitybank\classics\medieval\medtexl.dds
+entitybank\classics\medieval\medieval building 4.fpe
+entitybank\classics\medieval\medhouse4.dbo
+entitybank\classics\medieval\medtexd.dds
+entitybank\classics\medieval\medieval building 5.fpe
+entitybank\classics\medieval\medhouse5.dbo
+entitybank\classics\medieval\medtexa.dds
+scriptbank\default.lua
+entitybank\foliage\tree 12 (animated).fpe
+entitybank\foliage\tree12.dbo
+entitybank\foliage\tree12_d.dds
+entitybank\foliage\tree12_n.dds
+entitybank\foliage\tree12_s.dds
+effectbank\reloaded\apbr_treea.fx
+entitybank\classics\medieval\church.fpe
+entitybank\classics\medieval\church.dbo
+entitybank\classics\medieval\church.dds
+entitybank\classics\medieval\medhouse10.fpe
+entitybank\classics\medieval\medhouse10.dbo
+entitybank\classics\medieval\medtexg.dds
+entitybank\classics\medieval\medieval building 3.fpe
+entitybank\classics\medieval\medhouse3.dbo
+entitybank\classics\medieval\medtexb.dds
+entitybank\foliage\tree 08 (animated).fpe
+entitybank\foliage\tree08.dbo
+entitybank\foliage\tree08_d.dds
+entitybank\foliage\tree08_n.dds
+entitybank\foliage\tree08_s.dds
+entitybank\foliage\tree 11 (animated).fpe
+entitybank\foliage\tree11.dbo
+entitybank\foliage\tree11_d.dds
+entitybank\foliage\tree11_n.dds
+entitybank\foliage\tree11_s.dds
+scriptbank\markers\textinzone.lua
+entitybank\_markers\text zone.fpe
+entitybank\_markers\triggerzone.dbo
+entitybank\_markers\triggerzone.dds
+scriptbank\classics\ai_classiccharacter_crusader.lua
+entitybank\classics\characters\middangeard\crusader 1.fpe
+entitybank\classics\characters\middangeard\crusaderm.dbo
+entitybank\classics\characters\middangeard\crusaderm_1_d2.dds
+effectbank\reloaded\apbr_anim.fx
+audiobank\classics\voice_sounds\male\championroar.wav
+scriptbank\plrinzone.lua
+entitybank\_markers\trigger zone.fpe
+scriptbank\appear.lua
+scriptbank\disappear.lua
+audiobank\misc\soundtrigger.wav
+entitybank\classics\characters\middangeard\crusader 2.fpe
+entitybank\classics\characters\middangeard\crusaderm_2_d2.dds
+entitybank\furniture\wooden table.fpe
+entitybank\furniture\wooden table.dbo
+entitybank\furniture\wood table_d.dds
+entitybank\furniture\wood table_n.dds
+entitybank\furniture\wood table_s.dds
+effectbank\reloaded\apbr_basic.fx
+scriptbank\weapon.lua
+entitybank\weapons\crossbow.fpe
+entitybank\weapons\crossbow.dbo
+entitybank\weapons\crossbow_d2.dds
+gamecore\guns\medieval\crossbow\crosshair.dds
+gamecore\guns\medieval\crossbow\fire.wav
+gamecore\guns\medieval\crossbow\gunspec.txt
+gamecore\guns\medieval\crossbow\gun_d.dds
+gamecore\guns\medieval\crossbow\gun_d2.dds
+gamecore\guns\medieval\crossbow\hand_d.jpg
+gamecore\guns\medieval\crossbow\hud.x
+gamecore\guns\medieval\crossbow\hud_icon.dds
+gamecore\guns\medieval\crossbow\idle.wav
+gamecore\guns\medieval\crossbow\putaway.wav
+gamecore\guns\medieval\crossbow\retrieve.wav
+gamecore\ammo\crossbow\arrows.x
+gamecore\ammo\crossbow\crossbow_arrows.fpe
+gamecore\ammo\crossbow\crossbow_d2.dds
+scriptbank\ammo.lua
+entitybank\weapons\crossbow_arrows.fpe
+entitybank\weapons\arrows.dbo
+entitybank\weapons\bow_d2.dds
+audiobank\misc\ammo.wav
+scriptbank\winzone.lua
+entitybank\_markers\win zone.fpe
+entitybank\classics\characters\middangeard\crusader 3.fpe
+entitybank\classics\characters\middangeard\crusaderm_3_d2.dds
+entitybank\classics\characters\middangeard\crusader 4.fpe
+entitybank\classics\characters\middangeard\crusaderm_4_d2.dds
+entitybank\foliage\tree 09 (animated).fpe
+entitybank\foliage\tree09.dbo
+entitybank\foliage\tree09_d.dds
+entitybank\foliage\tree09_n.dds
+entitybank\foliage\tree09_s.dds
