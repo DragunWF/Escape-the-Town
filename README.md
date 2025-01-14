@@ -18,10 +18,10 @@ In this 3D game, you step into the boots of a knight who has been betrayed by yo
 
 ## Preview of the Game
 
-- ![Preview Images 1](Images/Preview_1.png)
-- ![Preview Images 2](Images/Preview_2.png)
-- ![Preview Images 3](Images/Preview_3.png)
-- ![Preview Images 4](Images/Preview_4.png)
-- ![Preview Images 5](Images/Preview_5.png)
-- ![Preview Images 6](Images/Preview_6.png)
-- ![Preview Images 7](Images/Preview_7.png)
+![Preview Images 1](Images/Preview_1.png)
+![Preview Images 2](Images/Preview_2.png)
+![Preview Images 3](Images/Preview_3.png)
+![Preview Images 4](Images/Preview_4.png)
+![Preview Images 5](Images/Preview_5.png)
+![Preview Images 6](Images/Preview_6.png)
+![Preview Images 7](Images/Preview_7.png)
