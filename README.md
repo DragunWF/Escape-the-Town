@@ -11,6 +11,7 @@ In this 3D game, you step into the boots of a knight who has been betrayed by yo
 ### Controls
 
 - `WASD Keys` - Movement
+- `Mouse Left Click` - Attack
 - `Space Bar` - Jump
 - `1` - Switch to Sword
 - `2` - Switch to Crossbow
